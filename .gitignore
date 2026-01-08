@@ -38,5 +38,3 @@ data/
 # Logs
 *.log
 
-# Config with secrets
-config.py
